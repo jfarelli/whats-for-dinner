@@ -60,9 +60,11 @@ var foodsArrays = {
   desserts: desserts,
 }
 
-// addEventListener here
+// addEventListener
 letsCookButton.addEventListener('click', removeLogo);
 
+
+// Functionality
 function getRandomIndex(array) {
   return Math.floor(Math.random() * array.length);
 }
