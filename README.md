@@ -1,16 +1,16 @@
 # What's for Dinner?!?!
 
-**It's the question that's on everyone's mind at the end of the night!**
+**It's the question that's on everyone's mind at the end of the day!**
 
-If this is a question that lingers in *YOUR* brain at the end of the night, then look no further!!!
+If this is a question that lingers in *YOUR* brain at the end of the day, then look no further!!!
 
 Please, visit my website: [What's For Dinner?](https://jfarelli.github.io/whats-for-dinner/)
 
-* Whether you need an idea for a **Side**, a **Main Dish**, a **Dessert**, or **ALL OF THEM**, just select what you need and hit that **"Get Cooking"** button!
+* Whether you need an idea for a **Side**, a **Main Dish**, a **Dessert**, or **ALL OF THEM**, just select what you need and hit that **"Let's Cook"** button!
 
 * That little stove pot on the right will disappear and be replaced with a random meal!
 
-* Is that option not for you??? Just keep on hitting that **"Get Cooking"** button and see which meal "tickles your fancy"!
+* Is that option not for you??? Just keep on hitting that **"Let's Cook"** button until you find your perfect dish!
 
 * BON APPETIT!!
 
